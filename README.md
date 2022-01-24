@@ -10,7 +10,7 @@ About me:
 ------------------------------
 1) I'm [ Seksa Tianwei ](https://github.com/766-Tianwei/766-Tianwei/blob/main/README.md "this web page") from China, This determines that my first language is Chinese.<br>
 2) I'm a junior high school student (probably in high school).<br>
-3) Interests are writing Java and occasionally writing C++.<br>
+3) Interests are writing `Java` and occasionally writing `C++`.<br>
 4) Personal programming level is average, so come to this site to learn.<br>
 5) Can give me any advice, even criticism, as long as the language is not particularly violent...<br>
 <!-- contact -->
@@ -32,7 +32,8 @@ Technology and Tools:
 <br>![Technology and Tools.1](https://img.shields.io/badge/JDK-jdk--16.0.1%2B-red)              ![Technology and Tools.3](https://badgen.net/badge/C++/Visual%20Studio%20Code/yellow?icon=Visual%20Studio%20Code)<br>![Technology and Tools.2](https://badgen.net/badge/Java/eclipes/yellow?icon=java)![Technology and Tools.4](https://badgen.net/badge/HTML5/jsp%20file/blue?icon=null)
 <br>![My icon](https://avatars.githubusercontent.com/u/97861428?s=400&u=a9fc54970b21850b0d3b539fd7fb96f6eba08ddd&v=4)
 
-Thank you ~~ ❤
+<!-- thanks -->
+`Thank you ~~ ❤`
 ===
 <!---
 766-Tianwei/766-Tianwei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
