@@ -1,22 +1,22 @@
-
-The following text is all done by the translation software (including this paragraph),There may be wrong sentence meanings and wrong grammar, tense, etc. (My English level is not very good)
+<!-- Start -->
+MY "README.md"file: ` Hello :) ! `
 ==========================
-
-
-I'm Seksa Tianwei from China, This determines that my first language is Chinese.
-I'm a junior high school student (probably in high school).
-
-Interests are writing Java and occasionally writing C++.
-
-Personal programming level is average, so come to this site to learn.
-
-Can give me any advice, even criticism, as long as the language is not particularly violent...
-
-=========================
-<!-- Actual text -->
-
-You can find me on [![bilibili][1.2]][1], or on [![CSDN][2.2]][2].
-
+<!-- FIRST -->
+Instruction：
+------------------------------
+The following text is all done by the translation software (including this paragraph),There may be wrong sentence meanings and wrong grammar, tense, etc. (My English level is not very good)
+<!-- about me -->
+About me:
+------------------------------
+1) I'm ` Seksa Tianwei ` from China, This determines that my first language is Chinese.<br>
+2) I'm a junior high school student (probably in high school).<br>
+3) Interests are writing Java and occasionally writing C++.<br>
+4) Personal programming level is average, so come to this site to learn.<br>
+5) Can give me any advice, even criticism, as long as the language is not particularly violent...<br>
+<!-- contact -->
+To contact me
+------------------------------
+You can find me on [![bilibili][1.2]][1] [bilibili], or on [![CSDN][2.2]][2] [CSDN].
 <!-- Icons -->
 
 [1.2]: https://s.cn.bing.net/th?id=ODLS.cc3daeaa-44f8-4117-b073-ddba0ec3587c&w=16&h=16&o=6&pid=1.2
@@ -26,7 +26,9 @@ You can find me on [![bilibili][1.2]][1], or on [![CSDN][2.2]][2].
 [1]: https://space.bilibili.com/399567766
 [2]: https://blog.csdn.net/mzmzmzmzmzm
 
-Thank you
+Thank you ~~ (There's nothing behind...)
+===
+
 
 <!---
 766-Tianwei/766-Tianwei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
