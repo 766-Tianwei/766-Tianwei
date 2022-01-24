@@ -1,5 +1,4 @@
 
-==========================
 The following text is all done by the translation software (including this paragraph),There may be wrong sentence meanings and wrong grammar, tense, etc. (My English level is not very good)
 ==========================
 
