@@ -15,7 +15,7 @@ Can give me any advice, even criticism, as long as the language is not particula
 =========================
 <!-- Actual text -->
 
-You can find me on [![bilibili][1.2]][1], or on [![CSDN][2.2]][3].
+You can find me on [![bilibili][1.2]][1], or on [![CSDN][2.2]][2].
 
 <!-- Icons -->
 
