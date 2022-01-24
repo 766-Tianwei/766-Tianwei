@@ -8,7 +8,7 @@ The following text is all done by the translation software (including this parag
 <!-- about me -->
 About me:
 ------------------------------
-1) I'm [ Seksa Tianwei ](https://github.com/766-Tianwei/766-Tianwei/blob/main/README.md "this web page") from China, This determines that my first language is Chinese.<br>
+1) I'm [ Seksa Tianwei ](https://github.com/766-Tianwei "my page") from China, This determines that my first language is Chinese.<br>
 2) I'm a junior high school student (probably in high school).<br>
 3) Interests are writing `Java` and occasionally writing `C++`.<br>
 4) Personal programming level is average, so come to this site to learn.<br>
